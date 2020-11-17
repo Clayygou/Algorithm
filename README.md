@@ -1,3 +1,3 @@
 # Algorithm
-Few Algorithm
-## Time 2020-11-06
+Teach what you learn, and give what you get.
+## 
