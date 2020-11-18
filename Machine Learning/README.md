@@ -1,3 +1,10 @@
 # Machine Learning
 
-## one
+## Classification
+
+- Logistic Regression
+
+
+## Regression 
+
+- Linear Regression
